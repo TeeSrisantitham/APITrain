@@ -16,18 +16,7 @@ Stored Procedure Manager/*.zip
 Stored Procedure Manager/*.config
 Handshakes.Service.Report/bin/*
 .DS_Store
-Handshakes.Ginger.Api/Handshakes.Ginger.Api/bin/
-Handshakes.Ginger.Api/packages/
-Handshakes.Ginger.Api/Handshakes.Ginger.Api/obj/Debug/
-Handshakes.Ginger.Api/.vs/
-Handshakes.Ginger.Api/Handshakes.Ginger.Model/bin/
-Handshakes.Ginger.Api/Handshakes.Ginger.Model/obj/
-Handshakes.Ginger.Api/Handshakes.Ginger.Repository/obj/
-Handshakes.Ginger.Api/Handshakes.Ginger.Repository/bin/
-Handshakes.Ginger.Api/Handshakes.Ginger.Repository.Test/
 .vs/
-HandshakesWebApp/bin/
 *.config
-Handshakes.Ginger.Api/Handshakes.Ginger.Api/obj/
-Handshakes.Ginger.Api/Handshakes.Ginger.Api/Properties/PublishProfiles/local iis (api).pubxml
-Handshakes.Ginger.Api/Handshakes.Ginger.Api/App_Data/
+iis (api).pubxml
+
